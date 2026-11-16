@@ -2,6 +2,8 @@
 <br>
 <br>
 
+[seththompson.com](https://seththompson.com)
+
 I am a designer and software engineer in New York. My work engages with spatial representation, computational image-making, and tools for creative expression.
 
 I am the founder of [A Lot of Moving Parts](https://alotofmoving.parts/), a research studio for interactive 3d visualization. I am also an adjunct assistant professor at Columbia University GSAPP where I teach in the Computational Design Practices graduate degree program. Previously, I worked at Notion and Google, and served as the digital director of the New York Review of Architecture.
